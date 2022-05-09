@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlmanaX-21
 - 👀 I’m interested in minecraft, java and discord
-- 🌱 I’m currently learning java
+- 🌱 I’m currently good with java
 - 📫 Find me on discord AlmanaX21#0748
 
 <!---
