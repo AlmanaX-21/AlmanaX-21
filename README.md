@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlmanaX-21
 - 👀 I’m interested in minecraft, java and discord
 - 🌱 I’m currently good with java
-- 📫 Find me on discord AlmanaX21#0748
+- 📫 Find me on discord almanax21
 
 <!---
 AlmanaX-21/AlmanaX-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
